@@ -1,0 +1,38 @@
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\emgutest.exe.config
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\x64\concrt140.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\x64\cvextern.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\x64\msvcp140.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\x64\opencv_ffmpeg341_64.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\x64\vcruntime140.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\x86\concrt140.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\x86\cvextern.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\x86\msvcp140.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\x86\opencv_ffmpeg341.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\x86\vcruntime140.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\emgutest.exe
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\emgutest.pdb
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\Emgu.CV.UI.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\Emgu.CV.World.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\ZedGraph.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\Emgu.CV.UI.xml
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\Emgu.CV.World.xml
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\ZedGraph.xml
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\obj\Debug\emgutest.csprojResolveAssemblyReference.cache
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\obj\Debug\emgutest.exe
+C:\Users\CIARAN\Desktop\EMGUCV\emgutest\emgutest\obj\Debug\emgutest.pdb
+C:\Users\CIARAN\Desktop\CMP304 Artificial Intelligence - 1500396 - Ciaran Carr\Project\emgutest\emgutest\bin\Debug\emgutest.exe.config
+C:\Users\CIARAN\Desktop\CMP304 Artificial Intelligence - 1500396 - Ciaran Carr\Project\emgutest\emgutest\obj\Debug\emgutest.exe
+C:\Users\CIARAN\Desktop\CMP304 Artificial Intelligence - 1500396 - Ciaran Carr\Project\emgutest\emgutest\obj\Debug\emgutest.pdb
